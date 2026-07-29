@@ -348,7 +348,6 @@ y `test_embeddings.py` usan modelos simulados.
 ## 🔬 Decisiones metodológicas
 
 Las 23 están registradas con su justificación en
-[`../Documents/CONTEXT.md`](../Documents/CONTEXT.md) §5 y
 [`../Documents/STACK_Y_METODOLOGIA.md`](../Documents/STACK_Y_METODOLOGIA.md) §4. Las que
 más cambiaron resultados:
 
@@ -380,8 +379,7 @@ más cambiaron resultados:
 |---|---|
 | [`../README.md`](../README.md) | Presentación del proyecto completo, las dos fases |
 | [`../Babel_V1/`](../Babel_V1/) | La fase 1: el estudio original, preservado |
-| [`../Documents/CONTEXT.md`](../Documents/CONTEXT.md) | Handoff operativo: contexto científico, decisiones que no revertir, roadmap |
-| [`../Documents/STACK_Y_METODOLOGIA.md`](../Documents/STACK_Y_METODOLOGIA.md) | Referencia técnica: inventario razonado del stack, estado del arte, metodología |
+| [`../Documents/STACK_Y_METODOLOGIA.md`](../Documents/STACK_Y_METODOLOGIA.md) | Referencia técnica: inventario razonado del stack, estado del arte, las 23 decisiones metodológicas, los siete artefactos del instrumento y las limitaciones |
 
 ---
 

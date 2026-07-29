@@ -593,7 +593,6 @@ Mining the Random - Library of Babel/
 │   └── README.md
 │
 ├── 📄 Documents/
-│   ├── CONTEXT.md                          # Scientific context, decisions, roadmap
 │   └── STACK_Y_METODOLOGIA.md              # Stack, state of the art, methodology
 │
 ├── 📦 data/                                # The 10 Babel books (13 MB, irreproducible)
@@ -680,11 +679,9 @@ meaning in its chaos. The meaning is supplied by the librarian who reads.**
 
 ### 📖 Further reading
 
-**[`Documents/CONTEXT.md`](Documents/CONTEXT.md)** — scientific context, the 23 methodological
-decisions and why none of them should be reverted
-
 **[`Documents/STACK_Y_METODOLOGIA.md`](Documents/STACK_Y_METODOLOGIA.md)** — reasoned inventory
-of the stack, state of the art of each tool, and the full methodology
+of the stack, the state of the art of each tool, the 23 methodological decisions with their
+justification, the seven instrument artifacts, and the known limitations
 
 <br>
 

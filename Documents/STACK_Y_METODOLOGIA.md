@@ -467,8 +467,9 @@ problema eran los 10 documentos. Con n=50 la tasa de falsos picos cae al 0,02%.
 
 ## 4. Decisiones técnicas documentadas
 
-Cada una nació de un problema concreto, y todas están registradas con su
-justificación en `CONTEXT.md §5`.
+Cada una nació de un problema concreto. La columna «Motivo» no es una glosa: es
+el defecto que forzó la decisión. Ninguna debe revertirse sin entender antes qué
+la provocó.
 
 | # | Decisión | Motivo |
 |---|---|---|
@@ -599,7 +600,7 @@ Babel_V1/                   # FASE 1 — el estudio original, conservado íntegr
 └── figures/                # Las 6 figuras del v1
 
 Babel_V2/                   # FASE 2 — la reconstrucción
-Documents/                  # CONTEXT.md + este documento
+Documents/                  # Este documento
 data/                       # Los 10 libros (13 MB, irreproducibles)
 ```
 

@@ -63,6 +63,12 @@ huggingface/
 *.key
 credentials.json
 
+# ─── Documentación interna ───────────────────────────────────────────────────
+# CONTEXT.md es el handoff operativo: notas de trabajo, cómo tratar con el autor,
+# cola de tareas y decisiones que no revertir. No es material publicable.
+# La referencia técnica pública es Documents/STACK_Y_METODOLOGIA.md.
+Documents/CONTEXT.md
+
 
 # ═════════════════════════════════════════════════════════════════════════════
 # DECISIONES DELIBERADAS — qué NO se ignora y por qué
