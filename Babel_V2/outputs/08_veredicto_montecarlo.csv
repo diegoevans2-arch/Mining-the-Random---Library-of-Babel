@@ -1,0 +1,8 @@
+﻿Métrica,Babel,Null μ,"Null [p2.5, p97.5]",Percentil Babel,¿Indistinguible?
+Entropía relativa (%),99.7454,99.7454,"[99.745, 99.746]",53.0,✓ Sí
+Compresión gzip,0.6512,0.6513,"[0.651, 0.651]",49.0,✓ Sí
+Pendiente Zipf,-0.9386,-0.9372,"[-0.949, -0.927]",34.0,✓ Sí
+Heaps β,0.9697,0.9695,"[0.968, 0.974]",70.0,✓ Sí
+χ² p-valor,0.4687,0.3784,"[0.015, 0.952]",65.0,✓ Sí
+Sentimiento (polaridad),0.2254,0.2051,"[0.085, 0.320]",60.0,✓ Sí
+Sentimiento (subjetividad),0.5167,0.5214,"[0.438, 0.605]",46.0,✓ Sí

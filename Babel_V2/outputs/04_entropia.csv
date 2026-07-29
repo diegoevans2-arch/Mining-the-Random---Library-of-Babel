@@ -1,0 +1,5 @@
+﻿Condición,Alfabeto,H1 (bits/char),H1/Hmax (%),H2 (bits/bigram),H3 (bits/trigram)
+Babel,30,4.894,99.7,9.788,14.665
+Null,30,4.894,99.7,9.788,14.665
+Control_EN,82,4.542,71.4,8.06,10.898
+Control_ES,96,4.474,67.9,7.863,10.654

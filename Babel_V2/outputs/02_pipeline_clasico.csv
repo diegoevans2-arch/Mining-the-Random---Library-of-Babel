@@ -1,0 +1,5 @@
+﻿Condición,Tokens,Tipos únicos,% Stemming mod.,% Lematizado,Sentimiento (pol.),Clasif. sentim.,Long. mín. hapax
+Babel,111797,85134,8.48,1.55,0.216,Positivo,1
+Null,111879,85398,8.56,1.61,0.218,Positivo,1
+Control_EN,193591,16584,32.15,7.94,0.083,Neutral,2
+Control_ES,174908,17137,80.33,35.57,0.039,Neutral,1

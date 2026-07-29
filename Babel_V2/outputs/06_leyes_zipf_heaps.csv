@@ -1,0 +1,5 @@
+﻿Condición,Zipf pendiente,Zipf R²,Zipf rangos ajuste,Zipf pend. (cola incl.),Zipf R² (cola incl.),Heaps β,Heaps R²
+Babel,-0.94,0.858,2732,-0.174,0.353,0.971,1.0
+Null,-0.933,0.853,2789,-0.175,0.355,0.969,1.0
+Control_EN,-1.086,0.993,9038,-1.137,0.98,0.762,0.994
+Control_ES,-0.968,0.988,10366,-1.003,0.969,0.79,0.999

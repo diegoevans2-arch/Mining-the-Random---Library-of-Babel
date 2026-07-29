@@ -1,0 +1,17 @@
+﻿Condición,Umbral,% Tokens cortos,% Stopwords REALES,% Total eliminado
+Babel,sin filtro,0.0,7.606,7.61
+Babel,>=2,11.51,1.488,13.0
+Babel,>=3,21.57,0.115,21.68
+Babel,>=5,38.52,0.0,38.52
+Null,sin filtro,0.0,7.494,7.49
+Null,>=2,11.29,1.504,12.79
+Null,>=3,21.35,0.13,21.48
+Null,>=5,38.34,0.0,38.34
+Control_EN,sin filtro,0.0,50.584,50.58
+Control_EN,>=2,4.22,46.372,50.59
+Control_EN,>=3,20.71,30.438,51.15
+Control_EN,>=5,62.17,3.141,65.31
+Control_ES,sin filtro,0.0,48.117,48.12
+Control_ES,>=2,5.07,43.089,48.16
+Control_ES,>=3,29.43,19.028,48.45
+Control_ES,>=5,52.68,2.797,55.48

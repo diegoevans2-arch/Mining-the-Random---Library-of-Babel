@@ -1,0 +1,6 @@
+﻿Métrica,Babel,Null μ,IC95 nulo,Percentil,¿Indistinguible?,Ctrl_EN,Ctrl_ES
+Fragmentación (tokens/char),0.6029,0.6019,"[0.597, 0.606]",60.0,✓ Sí,0.27,0.276
+XLM-R prob. de idioma,0.5417,0.5323,"[0.479, 0.604]",68.0,✓ Sí,0.953,0.991
+fastText prob. de idioma,0.1099,0.1102,"[0.105, 0.116]",43.0,✓ Sí,0.967,0.963
+Sentimiento moderno (polaridad),-0.1113,-0.1109,"[-0.119, -0.103]",40.0,✓ Sí,-0.184,-0.19
+Sentimiento moderno (neutral),0.4472,0.4474,"[0.442, 0.452]",48.0,✓ Sí,0.316,0.391

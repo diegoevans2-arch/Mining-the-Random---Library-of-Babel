@@ -1,0 +1,4 @@
+﻿Métrica,Babel,Null μ,IC95 nulo,Percentil,¿Indistinguible?,Ctrl_EN,Ctrl_ES
+Ganancia de información (k=1),0.0005,0.0005,"[0.0005, 0.0006]",71.0,✓ Sí,0.909,1.085
+Ganancia de información (k=2),0.0155,0.0156,"[0.0154, 0.0159]",29.0,✓ Sí,1.62,1.683
+Ganancia de información (k=3),0.5255,0.5255,"[0.5243, 0.5269]",53.0,✓ Sí,2.226,2.266

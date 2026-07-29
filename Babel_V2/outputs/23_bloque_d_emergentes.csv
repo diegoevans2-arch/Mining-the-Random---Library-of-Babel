@@ -1,0 +1,5 @@
+﻿Condición,Tokens (>=3),Long. media token,Emergentes OBSERVADAS,Emergentes PREDICHAS,Obs / Pred,Distintas,Tasa %,Palabra más larga
+Babel,87686,8.75,3766,3860.9,0.98,2900,4.2949,5
+Null,87997,8.74,3798,3864.0,0.98,2916,4.3161,5
+Control_EN,153493,4.38,150914,16725.3,9.02,15131,98.3198,18
+Control_ES,123441,4.89,117267,10449.1,11.22,17752,94.9984,19

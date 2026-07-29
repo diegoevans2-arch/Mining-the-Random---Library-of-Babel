@@ -1,0 +1,5 @@
+﻿Condición,tokens/char,XLM-R prob_top,XLM-R idioma,fastText prob_top,fastText idioma,Sent. polaridad,Sent. neutral
+Babel,0.603,0.542,hi,0.11,en,-0.111,0.447
+Null,0.602,0.532,hi,0.11,en,-0.111,0.447
+Control_EN,0.27,0.953,en,0.967,en,-0.184,0.316
+Control_ES,0.276,0.991,es,0.963,es,-0.19,0.391

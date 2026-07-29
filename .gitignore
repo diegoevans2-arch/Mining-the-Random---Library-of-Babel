@@ -1,0 +1,87 @@
+# Minando lo Aleatorio — Library of Babel
+#
+# Lo que SÍ se versiona, a propósito (ver nota al final):
+#   *.txt de la raíz  ·  Babel_V2/outputs/  ·  Babel_V2/figures/  ·  el v1
+
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ─── Tests y cobertura ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+
+# ─── Entornos virtuales ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# ─── Empaquetado ─────────────────────────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ─── Editores e IDE ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── Sistema operativo ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ─── Modelos y cachés ────────────────────────────────────────────────────────
+# Los pesos viven fuera del repo (~/.cache/huggingface, ~/.cache/fasttext) y
+# se descargan solos. Estas reglas son un seguro por si alguien los baja aquí.
+lid.176.bin
+*.safetensors
+*.pt
+*.pth
+.cache/
+huggingface/
+
+# ─── Secretos ────────────────────────────────────────────────────────────────
+.env
+*.key
+credentials.json
+
+
+# ═════════════════════════════════════════════════════════════════════════════
+# DECISIONES DELIBERADAS — qué NO se ignora y por qué
+# ═════════════════════════════════════════════════════════════════════════════
+#
+# 1. Los diez .txt de la raíz (13 MB). Son extracciones aleatorias de
+#    libraryofbabel.info: NO se pueden regenerar. Sin ellos el estudio no es
+#    reproducible. No hay carpeta data/; el notebook los auto-detecta.
+#
+# 2. Babel_V2/outputs/ — las 27 tablas CSV (60 KB). Ambos documentos de
+#    Documents/ citan cifras de estas tablas por nombre de archivo. Versionarlas
+#    es lo que permite auditar cualquier número del estudio sin correr una hora
+#    de cómputo.
+#
+# 3. Babel_V2/figures/ — las 14 figuras PNG (3,7 MB). Mismo motivo.
+#
+# 4. El v1 completo: MINERIA_BIBLIOTECA_BABEL_08012025_2_G.ipynb (7,4 MB, con
+#    outputs embebidos) y sus PNG de la raíz (~20 MB). El estudio consiste en
+#    reinterpretar el v1, no en sustituirlo: borrarlo dejaría las conclusiones
+#    del v2 sin el objeto al que se refieren.
+#
+# Total del repositorio: ~59 MB. Ningún archivo pasa de 10 MB.

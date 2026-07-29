@@ -1,0 +1,4 @@
+﻿Comparación,js_media,n_contextos_comunes,n_contextos_a,n_contextos_b
+Babel vs Null,0.0002810324962782584,29,29,29
+Babel vs Control_ES,0.5424311445356721,29,29,96
+Null vs Control_ES,0.542806195563071,29,29,96

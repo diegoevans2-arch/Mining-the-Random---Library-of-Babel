@@ -1,0 +1,22 @@
+﻿Par,Jaccard
+Babel_01 vs Babel_02,0.0
+Babel_01 vs Babel_03,0.0
+Babel_01 vs Babel_04,0.0
+Babel_01 vs Babel_05,0.0
+Babel_01 vs Null,0.0
+Babel_01 vs Control_ES,0.0
+Babel_02 vs Babel_03,0.0
+Babel_02 vs Babel_04,0.0
+Babel_02 vs Babel_05,0.0
+Babel_02 vs Null,0.0
+Babel_02 vs Control_ES,0.0
+Babel_03 vs Babel_04,0.0
+Babel_03 vs Babel_05,0.0
+Babel_03 vs Null,0.0
+Babel_03 vs Control_ES,0.0
+Babel_04 vs Babel_05,0.0
+Babel_04 vs Null,0.0
+Babel_04 vs Control_ES,0.0
+Babel_05 vs Null,0.0
+Babel_05 vs Control_ES,0.0
+Null vs Control_ES,0.0

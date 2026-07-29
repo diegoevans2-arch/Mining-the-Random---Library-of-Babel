@@ -1,0 +1,5 @@
+﻿Métrica,Babel,Null μ,IC95 nulo,Percentil,¿Indistinguible?
+Tasa de palabras reales (%),4.2714,4.2787,"[4.159, 4.412]",49.0,✓ Sí
+Palabras emergentes,3758.7,3768.22,"[3655.750, 3888.075]",43.0,✓ Sí
+Palabras distintas,2907.9,2918.08,"[2838.275, 2990.625]",41.0,✓ Sí
+Longitud máxima,5.5,5.56,"[5.000, 6.000]",46.0,✓ Sí

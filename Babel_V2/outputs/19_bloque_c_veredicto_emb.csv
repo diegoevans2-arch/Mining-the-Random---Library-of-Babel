@@ -1,0 +1,6 @@
+﻿Métrica,Babel,Null μ,IC95 nulo,Percentil,¿Indistinguible?,Ctrl_EN,Ctrl_ES
+Similitud media entre chunks,0.8878,0.8874,"[0.884, 0.891]",53.3,✓ Sí,0.464,0.371
+Dispersión de similitudes,0.0239,0.0241,"[0.022, 0.028]",60.0,✓ Sí,0.06,0.062
+Dimensión efectiva,86.8966,86.7769,"[83.863, 89.146]",46.7,✓ Sí,82.657,88.195
+Clusters HDBSCAN,2.5,2.2667,"[0.700, 3.650]",66.7,✓ Sí,4.0,4.0
+% puntos sin cluster,69.25,71.6333,"[51.250, 95.975]",33.3,✓ Sí,56.5,28.0
